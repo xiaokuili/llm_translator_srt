@@ -16,7 +16,7 @@ def test__translator_chain():
     chain = _translator_chain()
     result = chain.invoke({"msg": msg, "context": ""})
     assert result.content != ""
-    assert result.usage_matedata is not None
+    assert result.usage_metadata is not None
 
 
 def test_write_read_srt_file():

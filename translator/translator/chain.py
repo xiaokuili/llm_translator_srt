@@ -100,11 +100,11 @@ def translator():
 
     input_file = os.environ["INPUT_PATH"]
     output = os.environ["OUTPUT_PATH"]
-    maxline = os.environ.get("MAXLINE", 20)
+    maxline = int(os.environ.get("MAXLINE", 20))
 
     srts = read_srt(input_file)
 
-    for i in range(0, len(srts), int(maxline)):
+    for i in range(0, len(srts), maxline):
         chunk = srts[i : i + maxline]
         msgs = [srt.msg for srt in chunk]
 
