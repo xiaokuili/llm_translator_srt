@@ -14,5 +14,12 @@ OUTPUT_FILE
 
 
 # Other Tools 
-- yt-dlp:download youtube by url 
-- cut: 提取音频
+
+# OPENAI
+OPENAI_API_KEY=
+OPENAI_API_BASE=
+
+# SRT FILE
+INPUT_PATH=<输入srt文件位置>
+OUTPU_TPATH=<输入翻译后srt文件位置>
+MAXLINE=<每次处理多少行>
