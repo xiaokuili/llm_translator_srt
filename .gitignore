@@ -1,0 +1,3 @@
+translator/.env
+*.pyc
+translator/translator/__pycache__/chain.cpython-310.pyc
