@@ -26,5 +26,5 @@ MAXLINE=<每次处理多少行>
 poetry run python /translator/translator/example.py
 ```
 # Start by colab
-./example.ipynb 
 
+[![在Colab中打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ApDWPjf37OiioTKWreYxemYAC7APHs7D?usp=drive_link)
