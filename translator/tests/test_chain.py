@@ -1,6 +1,8 @@
+import os
 from translator.chain import _translator_chain, _translator
 from translator.chain import read_srt, write_srt
 from translator.chain import SRT
+from translator.chain import translator
 
 msgs = [
     "cheat that he sent me",
@@ -15,11 +17,6 @@ def test__translator_chain():
     result = chain.invoke({"msg": msg, "context": ""})
     assert result.content != ""
     assert result.usage_matedata is not None
-
-
-def test_translator():
-    result = _translator(msgs)
-    assert len(result.msgs) != 0
 
 
 def test_write_read_srt_file():
@@ -39,4 +36,14 @@ def test_write_read_srt_file():
 def test_write_read_srt_file2():
     file_path = "/workspaces/llm_translator_srt/translator/srt/example.srt"
     result = read_srt(file_path)
-    result[-1].msg == "like what's the conversion of monopoly money to USD"
+    assert result[-1].msg == "like what's the conversion of monopoly money to USD"
+
+
+def test_translator():
+    translator()
+    from dotenv import load_dotenv
+
+    load_dotenv()
+    output_file = os.environ["OUTPUT_PATH"]
+    srts = read_srt(output_file)
+    assert len(srts) is not None

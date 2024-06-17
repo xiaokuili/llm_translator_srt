@@ -59,12 +59,13 @@ def _translator(msgs: List[str]) -> translateResult:
     _msgs = []
     for i, msg in enumerate(msgs):
         context = ""
-        if i == 0:
-            context = msgs[1]
-        elif i == len(msgs) - 1:
-            context = msgs[i - 1]
-        else:
-            context = msgs[i - 1] + msgs[i + 1]
+        if len(msgs) > 1:
+            if i == 0 and len(msgs):
+                context = msgs[1]
+            elif i == len(msgs) - 1:
+                context = msgs[i - 1]
+            else:
+                context = msgs[i - 1] + msgs[i + 1]
         chain = _translator_chain()
         result = chain.invoke({"msg": msg, "context": context})
         _msgs.append(result.content)
@@ -97,9 +98,9 @@ def write_srt(file_path, srts: List[SRT]):
 def translator():
     """将英文srt文件翻译成中文srt文件，文件位置请修改.env"""
 
-    input_file = os.environ["INPUT_FILE"]
-    output = os.environ["OUTPUT_FILE"]
-    maxline = os.environ["MAXLINE"]
+    input_file = os.environ["INPUT_PATH"]
+    output = os.environ["OUTPUT_PATH"]
+    maxline = os.environ.get("MAXLINE", 20)
 
     srts = read_srt(input_file)
 
