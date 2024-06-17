@@ -1,0 +1,908 @@
+1
+00:00:00,100 --> 00:00:01,033
+cheat that he sent me
+
+2
+00:00:01,033 --> 00:00:02,600
+and it's got a list of a ton of things
+
+3
+00:00:02,600 --> 00:00:04,000
+can I just read off and ask questions
+
+4
+00:00:04,000 --> 00:00:06,100
+I actually want to ask you about Chrome extensions
+
+5
+00:00:06,233 --> 00:00:08,133
+because they're like
+
+6
+00:00:08,133 --> 00:00:10,100
+I'm like nerding out on Chrome extensions right now
+
+7
+00:00:10,100 --> 00:00:11,266
+have you ever even made one
+
+8
+00:00:12,633 --> 00:00:14,933
+I've bought one so we have one right now you have one
+
+9
+00:00:15,266 --> 00:00:18,000
+so on here so I tweeted out
+
+10
+00:00:18,000 --> 00:00:19,666
+so this is a mutual friend of ours by the way
+
+11
+00:00:19,666 --> 00:00:20,866
+but I can't say who it is
+
+12
+00:00:21,266 --> 00:00:23,200
+they were considering buying a company
+
+13
+00:00:23,200 --> 00:00:24,500
+and it was a Chrome extension
+
+14
+00:00:24,500 --> 00:00:26,000
+and it was two people
+
+15
+00:00:26,400 --> 00:00:28,933
+who were doing 25 million dollars a year in sales
+
+16
+00:00:29,866 --> 00:00:31,200
+with their Chrome extension
+
+17
+00:00:31,500 --> 00:00:34,733
+it's pretty crazy and then Grammarly you know Grammarly
+
+18
+00:00:35,666 --> 00:00:37,833
+yeah Grammarly I think is like a 20
+
+19
+00:00:37,866 --> 00:00:39,866
+billion dollar company at this point
+
+20
+00:00:41,066 --> 00:00:43,033
+Grammarly does like 80 million in revenue
+
+21
+00:00:44,433 --> 00:00:45,200
+that is what I like
+
+22
+00:00:45,200 --> 00:00:47,200
+these sleeper ones that people kind of just like
+
+23
+00:00:47,200 --> 00:00:49,066
+don't really grammatically is the best man
+
+24
+00:00:49,066 --> 00:00:50,833
+it started by this guy named Max who's
+
+25
+00:00:50,833 --> 00:00:52,333
+I think he's from like the Ukraine
+
+26
+00:00:52,333 --> 00:00:54,000
+and he's a lives in Canada
+
+27
+00:00:54,033 --> 00:00:56,100
+and he's a he's a hardcore engineer
+
+28
+00:00:56,266 --> 00:00:59,133
+and I asked him at Hustle Con the backstage
+
+29
+00:00:59,266 --> 00:01:01,500
+like that they had not they bootstrapped it
+
+30
+00:01:01,500 --> 00:01:03,033
+and they raised a funding
+
+31
+00:01:03,333 --> 00:01:06,333
+they raised $100 million at a billion dollar valuation
+
+32
+00:01:06,400 --> 00:01:08,533
+and I was with them backstage and I was like
+
+33
+00:01:08,533 --> 00:01:09,433
+dude that's amazing
+
+34
+00:01:09,433 --> 00:01:11,633
+so you're like almost a billionaire now he goes yeah
+
+35
+00:01:11,633 --> 00:01:12,333
+it's pretty cool
+
+36
+00:01:12,333 --> 00:01:14,600
+like the business is way bigger than than than no
+
+37
+00:01:14,600 --> 00:01:16,666
+and he like he like smirk but he was real low key
+
+38
+00:01:16,666 --> 00:01:18,033
+he's like yeah it's cool
+
+39
+00:01:18,033 --> 00:01:20,000
+the business is way bigger than most people realize
+
+40
+00:01:20,000 --> 00:01:21,266
+like it's gonna be huge
+
+41
+00:01:21,533 --> 00:01:22,600
+and it was awesome
+
+42
+00:01:22,600 --> 00:01:23,866
+so Grammarly's a good business
+
+43
+00:01:23,866 --> 00:01:25,466
+what what's your Chrome extension
+
+44
+00:01:26,433 --> 00:01:28,266
+Leo Io what's it do
+
+45
+00:01:28,266 --> 00:01:30,266
+so it's kind of similar to that momentum one
+
+46
+00:01:30,266 --> 00:01:31,266
+which I think is pretty popular
+
+47
+00:01:31,266 --> 00:01:33,033
+it's the main one when you open up a tab
+
+48
+00:01:33,033 --> 00:01:34,333
+it has like a nice background
+
+49
+00:01:34,666 --> 00:01:35,100
+I think that
+
+50
+00:01:35,100 --> 00:01:36,600
+taking a step back on these Chrome extensions
+
+51
+00:01:36,600 --> 00:01:37,666
+I think what's interesting
+
+52
+00:01:39,233 --> 00:01:40,033
+about your tweet
+
+53
+00:01:40,033 --> 00:01:42,500
+which was like this Chromecast make 25 million
+
+54
+00:01:42,500 --> 00:01:45,200
+or these is what are things that not everyone else
+
+55
+00:01:45,200 --> 00:01:46,066
+is paying attention to
+
+56
+00:01:46,066 --> 00:01:48,233
+that you can acquire for not a market rate
+
+57
+00:01:48,500 --> 00:01:49,300
+like I think ultimately
+
+58
+00:01:49,300 --> 00:01:50,700
+that's how you can have a lot of success in business
+
+59
+00:01:50,700 --> 00:01:52,800
+but that's specifically for for marketing
+
+60
+00:01:52,800 --> 00:01:54,033
+a lot of what I look for
+
+61
+00:01:54,200 --> 00:01:55,700
+so when we launched Sumo
+
+62
+00:01:55,700 --> 00:01:57,233
+Com I actually bought
+
+63
+00:01:57,333 --> 00:01:58,066
+probably about
+
+64
+00:01:58,066 --> 00:01:59,300
+5 million installs
+
+65
+00:01:59,300 --> 00:01:59,500
+I think
+
+66
+00:01:59,500 --> 00:02:01,700
+give or take 5 million installs of WordPress plugins
+
+67
+00:02:02,233 --> 00:02:02,733
+so I bought like
+
+68
+00:02:02,733 --> 00:02:05,066
+some of the most popular WordPress plugins around
+
+69
+00:02:05,066 --> 00:02:06,266
+no way which ones
+
+70
+00:02:07,100 --> 00:02:08,866
+I mean I have to pull up our list now
+
+71
+00:02:08,866 --> 00:02:10,866
+but the biggest one was Google Analytics
+
+72
+00:02:11,000 --> 00:02:13,033
+so it was like a million person install yeah
+
+73
+00:02:13,033 --> 00:02:14,400
+so it's Google Analytica
+
+74
+00:02:14,933 --> 00:02:17,933
+we bought WP Fonts we bought
+
+75
+00:02:18,000 --> 00:02:20,133
+Construction Page so basically I
+
+76
+00:02:20,666 --> 00:02:21,733
+used a bunch of those
+
+77
+00:02:22,600 --> 00:02:24,266
+yeah so we scraped the
+
+78
+00:02:24,300 --> 00:02:26,333
+the thing that it's not just copying this because
+
+79
+00:02:26,333 --> 00:02:28,000
+now people are more aware of it
+
+80
+00:02:28,233 --> 00:02:30,233
+but what you're looking for is like
+
+81
+00:02:30,233 --> 00:02:31,533
+one can you get structured data
+
+82
+00:02:31,533 --> 00:02:32,833
+so we went to the WordPress directory
+
+83
+00:02:32,833 --> 00:02:34,400
+and you could get all their rankings
+
+84
+00:02:34,633 --> 00:02:36,900
+so I got all the rankings and then I sorted it by
+
+85
+00:02:36,900 --> 00:02:39,033
+ones that were not updated recently
+
+86
+00:02:39,033 --> 00:02:40,533
+so I said which ones had the most installs
+
+87
+00:02:40,533 --> 00:02:41,866
+that no one's taken care of
+
+88
+00:02:42,266 --> 00:02:43,600
+and I would just email them and say hey
+
+89
+00:02:43,600 --> 00:02:44,833
+you haven't taken care of it
+
+90
+00:02:44,833 --> 00:02:45,933
+I'll pay you for it
+
+91
+00:02:45,933 --> 00:02:47,666
+and because there's not a market for it
+
+92
+00:02:47,666 --> 00:02:49,066
+you can get a cheaper price
+
+93
+00:02:49,066 --> 00:02:50,500
+and then I just sent a blast
+
+94
+00:02:50,500 --> 00:02:51,800
+email to a lot of these people
+
+95
+00:02:51,833 --> 00:02:52,900
+and picked up millions of installs
+
+96
+00:02:52,900 --> 00:02:54,800
+and that drove a significant amount of Sumo
+
+97
+00:02:54,800 --> 00:02:54,933
+Com
+
+98
+00:02:54,933 --> 00:02:57,333
+did you even pay more than six figures for any of them
+
+99
+00:02:58,466 --> 00:03:00,233
+for the Google Analytics one they had a million souls
+
+100
+00:03:00,233 --> 00:03:02,300
+I paid 100 k wow that's crazy isn't it
+
+101
+00:03:02,300 --> 00:03:03,500
+that was the most expensive one
+
+102
+00:03:03,500 --> 00:03:04,866
+I could pull up my price
+
+103
+00:03:04,866 --> 00:03:06,433
+could that could that Google
+
+104
+00:03:06,433 --> 00:03:09,000
+so for the people listening WordPress
+
+105
+00:03:09,000 --> 00:03:09,733
+if you don't use WordPress
+
+106
+00:03:09,733 --> 00:03:10,933
+I mean WordPress is used by like
+
+107
+00:03:10,933 --> 00:03:12,000
+three fourths of the internet
+
+108
+00:03:12,000 --> 00:03:13,933
+or half of half of like the top
+
+109
+00:03:14,033 --> 00:03:15,300
+10,000 websites
+
+110
+00:03:15,466 --> 00:03:17,733
+and they have this like crazy
+
+111
+00:03:18,633 --> 00:03:20,700
+database of all types of apps that you could plug
+
+112
+00:03:20,700 --> 00:03:22,066
+user or plugins
+
+113
+00:03:22,133 --> 00:03:26,900
+it's amazing and sumo was a email capture plugin
+
+114
+00:03:27,900 --> 00:03:29,333
+yeah man I found our list
+
+115
+00:03:29,333 --> 00:03:31,800
+we had a lot of I bought all of one favicon
+
+116
+00:03:31,866 --> 00:03:33,466
+just a bunch of random ones
+
+117
+00:03:33,500 --> 00:03:36,333
+and then we would rebrand them and then cross promote
+
+118
+00:03:36,333 --> 00:03:38,233
+assume calm within WordPress
+
+119
+00:03:38,433 --> 00:03:40,100
+and I was thinking I would do the same
+
+120
+00:03:40,100 --> 00:03:42,100
+and the thing was is there's not like
+
+121
+00:03:43,133 --> 00:03:44,900
+these websites where people are buying and selling them
+
+122
+00:03:44,900 --> 00:03:46,200
+and a lot of these guys weren't monetizing
+
+123
+00:03:46,200 --> 00:03:47,300
+it was just hobbies
+
+124
+00:03:47,666 --> 00:03:49,533
+and so I think in marketing and business
+
+125
+00:03:49,533 --> 00:03:50,233
+you got to look for something
+
+126
+00:03:50,233 --> 00:03:52,333
+that's a problem that other people haven't identified
+
+127
+00:03:52,333 --> 00:03:53,900
+and that's also why I bought the Chrome extension
+
+128
+00:03:53,900 --> 00:03:55,533
+I bought it for I think 25
+
+129
+00:03:55,533 --> 00:03:58,700
+I bought it for 25 thousand for 40 thousand installs
+
+130
+00:03:59,066 --> 00:04:01,200
+active installs on Chrome
+
+131
+00:04:01,400 --> 00:04:04,100
+but with that one we could not monetize it at all
+
+132
+00:04:04,133 --> 00:04:06,666
+we tried like paid features we tried ads to it
+
+133
+00:04:06,666 --> 00:04:07,800
+we tried to grow it
+
+134
+00:04:07,866 --> 00:04:09,133
+and we were not as successful
+
+135
+00:04:09,133 --> 00:04:11,233
+so pretty much lost almost all the money on that one
+
+136
+00:04:11,233 --> 00:04:11,400
+how much
+
+137
+00:04:11,400 --> 00:04:14,066
+what's the CPM on ads for Chrome plugin do you know
+
+138
+00:04:14,933 --> 00:04:17,233
+I don't remember what it was but it was abysmal
+
+139
+00:04:17,500 --> 00:04:20,733
+and it wasn't something that we were able to grow
+
+140
+00:04:20,733 --> 00:04:22,000
+dramatically like I thought we could
+
+141
+00:04:22,000 --> 00:04:23,700
+like the WordPress stuff was really cheap
+
+142
+00:04:23,700 --> 00:04:25,266
+like we were getting that stuff super cheap back in the
+
+143
+00:04:25,266 --> 00:04:26,833
+that's crazy there's this guy
+
+144
+00:04:26,833 --> 00:04:27,833
+like I think there's this guy who
+
+145
+00:04:27,833 --> 00:04:29,433
+I bet you know who you definitely know
+
+146
+00:04:29,433 --> 00:04:31,333
+I think his name Sai what's the same Sai
+
+147
+00:04:31,866 --> 00:04:33,266
+his last name starts with the B
+
+148
+00:04:34,100 --> 00:04:34,433
+side by side
+
+149
+00:04:34,433 --> 00:04:38,066
+and he owns this thing called awesome what's it called
+
+150
+00:04:38,066 --> 00:04:39,900
+it's called Awesome Corp or something
+
+151
+00:04:41,100 --> 00:04:42,333
+he owns WP Beginner
+
+152
+00:04:42,333 --> 00:04:44,500
+he's like the WordPress underground Mafia
+
+153
+00:04:44,500 --> 00:04:45,866
+he owns a lot of WordPress blogs
+
+154
+00:04:45,866 --> 00:04:47,000
+and let me explain the story
+
+155
+00:04:47,000 --> 00:04:48,433
+the story that I know it as
+
+156
+00:04:48,433 --> 00:04:50,466
+so basically he's only he's young
+
+157
+00:04:50,466 --> 00:04:52,833
+he's I think he's from Pakistan and he's only like
+
+158
+00:04:53,033 --> 00:04:54,500
+28 or something or 29
+
+159
+00:04:54,666 --> 00:04:56,900
+and he started this thing called WP Beginner
+
+160
+00:04:56,900 --> 00:04:58,400
+which is a WordPress
+
+161
+00:04:58,500 --> 00:04:59,733
+a site on WordPress
+
+162
+00:04:59,733 --> 00:05:02,466
+so if you like how to install blank on WordPress
+
+163
+00:05:02,466 --> 00:05:03,666
+he'll show up number one
+
+164
+00:05:03,833 --> 00:05:06,466
+it gets like 5 or 10 million unique a month
+
+165
+00:05:06,466 --> 00:05:08,200
+a ton a ton of unique a month
+
+166
+00:05:08,200 --> 00:05:10,000
+and using his blogs
+
+167
+00:05:10,000 --> 00:05:12,500
+he would see which plugins would get the most install
+
+168
+00:05:12,500 --> 00:05:15,133
+so he would say like here are all the best like
+
+169
+00:05:15,266 --> 00:05:18,600
+forms for WordPress or here's all the best like font
+
+170
+00:05:18,600 --> 00:05:19,300
+plugins for WordPress
+
+171
+00:05:19,300 --> 00:05:20,800
+and he would just see which are the best
+
+172
+00:05:20,800 --> 00:05:22,533
+he would buy the best ones
+
+173
+00:05:22,533 --> 00:05:25,100
+and then just promote them extra hard on WP beginner
+
+174
+00:05:25,100 --> 00:05:26,266
+and at this point
+
+175
+00:05:26,633 --> 00:05:28,433
+I bet you he makes 50 million dollars a year
+
+176
+00:05:28,433 --> 00:05:29,866
+on all of his WordPress stuff
+
+177
+00:05:31,433 --> 00:05:32,466
+wouldn't be surprised
+
+178
+00:05:32,466 --> 00:05:33,866
+I mean I love these industries that like
+
+179
+00:05:33,866 --> 00:05:35,133
+everyone's sleeping on
+
+180
+00:05:35,466 --> 00:05:37,733
+like I think that WordPress stuff is really interesting
+
+181
+00:05:37,733 --> 00:05:39,266
+it probably is still a decent category
+
+182
+00:05:39,266 --> 00:05:41,466
+what's fascinating though is the other side of the Sam
+
+183
+00:05:41,466 --> 00:05:41,700
+so
+
+184
+00:05:41,700 --> 00:05:44,500
+I actually try to do the same strategy in Shopify apps
+
+185
+00:05:45,066 --> 00:05:47,333
+so I went over to Shopify and we were launching Sumo
+
+186
+00:05:47,333 --> 00:05:48,800
+Com on Shopify and I was like man
+
+187
+00:05:48,800 --> 00:05:50,700
+I'll just go buy all these people over there
+
+188
+00:05:50,933 --> 00:05:52,300
+what was interesting was that
+
+189
+00:05:52,300 --> 00:05:53,300
+a lot of the people on Shopify
+
+190
+00:05:53,300 --> 00:05:54,300
+were a little bit more savvy
+
+191
+00:05:54,300 --> 00:05:55,633
+and they had recurring revenue
+
+192
+00:05:55,700 --> 00:05:57,900
+so they were like we want 10x the price
+
+193
+00:05:58,000 --> 00:06:00,300
+where like 10x the price of their revenue
+
+194
+00:06:00,333 --> 00:06:01,200
+where the WordPress plugins
+
+195
+00:06:01,200 --> 00:06:02,300
+they weren't really making money
+
+196
+00:06:02,300 --> 00:06:03,500
+so I was like hey I'll pay 1
+
+197
+00:06:03,500 --> 00:06:05,033
+cent for every active install you have
+
+198
+00:06:05,033 --> 00:06:07,133
+so I was getting them for very very cheap
+
+199
+00:06:08,033 --> 00:06:08,600
+but the Shopify
+
+200
+00:06:08,600 --> 00:06:09,200
+ones like I couldn't
+
+201
+00:06:09,200 --> 00:06:10,133
+I literally couldn't buy almost anything
+
+202
+00:06:10,133 --> 00:06:12,200
+so our friend Andrew Wilkinson
+
+203
+00:06:12,233 --> 00:06:13,433
+bought a couple of them
+
+204
+00:06:13,433 --> 00:06:16,133
+and he rolled them up and eventually took it public
+
+205
+00:06:16,300 --> 00:06:17,466
+and it currently it's in
+
+206
+00:06:17,466 --> 00:06:19,800
+it's public on the Canadian stock exchange right now
+
+207
+00:06:19,800 --> 00:06:21,633
+probably for 600 million dollar market cap
+
+208
+00:06:21,633 --> 00:06:23,300
+it's called Wii Commerce
+
+209
+00:06:23,833 --> 00:06:24,800
+and they do like
+
+210
+00:06:24,800 --> 00:06:26,900
+I think 30 million dollars a year in revenue
+
+211
+00:06:26,900 --> 00:06:28,600
+just off shopify apps
+
+212
+00:06:30,600 --> 00:06:32,533
+the Shopify ecosystem was interesting
+
+213
+00:06:32,600 --> 00:06:33,466
+I mean it's interesting
+
+214
+00:06:33,466 --> 00:06:35,033
+if you can create something really easily
+
+215
+00:06:35,033 --> 00:06:36,866
+and other people can copy you really easily
+
+216
+00:06:38,133 --> 00:06:40,033
+and then you don't control the payments
+
+217
+00:06:40,200 --> 00:06:41,800
+it's it was a whole wild experience in there
+
+218
+00:06:41,800 --> 00:06:43,033
+because shopify controls all the money
+
+219
+00:06:43,033 --> 00:06:45,066
+you don't you have to wait for your
+
+220
+00:06:45,066 --> 00:06:47,100
+your grandpa to give you your nickels
+
+221
+00:06:47,366 --> 00:06:49,066
+and they control the whole the whole thing
+
+222
+00:06:49,066 --> 00:06:51,000
+so we're like let's get the hell out of this world
+
+223
+00:06:51,100 --> 00:06:53,133
+but yeah we commerce looks like
+
+224
+00:06:53,333 --> 00:06:56,100
+535 Canadian which is what like 100 million American
+
+225
+00:06:56,100 --> 00:06:57,233
+no not that bad
+
+226
+00:06:57,700 --> 00:06:58,100
+yeah
+
+227
+00:06:58,100 --> 00:07:01,266
+like what's the conversion of monopoly money to USD
+
