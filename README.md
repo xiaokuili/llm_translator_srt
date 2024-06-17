@@ -3,17 +3,14 @@
 
 
 
-# start
-1. create .env in colab.com 
+# Start by python 
+1. install 
 ```
-OPEN
-INPUT_FILE
-OUTPUT_FILE
+cd llm_translator_srt/translator
+poetry install 
 ```
-3. run
-
-
-# Other Tools 
+2. create .env 
+```
 
 # OPENAI
 OPENAI_API_KEY=
@@ -23,3 +20,11 @@ OPENAI_API_BASE=
 INPUT_PATH=<输入srt文件位置>
 OUTPU_TPATH=<输入翻译后srt文件位置>
 MAXLINE=<每次处理多少行>
+```
+3. run 
+```
+poetry run python /translator/translator/example.py
+```
+# Start by colab
+./example.ipynb 
+
