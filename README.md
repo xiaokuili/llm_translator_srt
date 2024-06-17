@@ -11,3 +11,8 @@ INPUT_FILE
 OUTPUT_FILE
 ```
 3. run
+
+
+# Other Tools 
+- yt-dlp:download youtube by url 
+- cut: 提取音频
