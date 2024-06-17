@@ -104,7 +104,7 @@ def translator():
 
     srts = read_srt(input_file)
 
-    for i in range(0, len(srts), maxline):
+    for i in range(0, len(srts), int(maxline)):
         chunk = srts[i : i + maxline]
         msgs = [srt.msg for srt in chunk]
 
